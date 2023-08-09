@@ -24,7 +24,7 @@ from App11 import views;
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('hello/',views.wishes),
+    path('hai/',views.wishes),
 
     ]
 
